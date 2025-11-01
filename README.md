@@ -54,12 +54,13 @@ Model Waveform
 Program
 
 
-<img width="837" height="1022" alt="image" src="https://github.com/user-attachments/assets/ebbacd8c-7392-41a2-bcd7-b5568b18f45c" />
+<img width="827" height="1013" alt="image" src="https://github.com/user-attachments/assets/2cdd2bca-0708-4b41-9b19-a6b7b788c48a" />
 
 OUTPUT WAVEFORM
 
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6980a253-4e58-4e0e-8be1-a064884e2a05" />
+<img width="1917" height="1067" alt="image" src="https://github.com/user-attachments/assets/a0353a71-e502-40d7-9e2a-bcc4c96cce39" />
+
 
 TABULATION
 
